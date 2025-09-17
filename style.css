@@ -1,0 +1,10 @@
+:root{
+    /* CSS HEX */
+--cinza: #003049ff;
+--vermelho: #d62828ff;
+--laranja: #f77f00ff;
+--amarelo: #fcbf49ff;
+}
+body{
+    background-color: var(--cinza);
+}
